@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Host Settings">
+        <EditTextPreference android:name="GM:Studio IP Address" android:title="GM:Studio IP Address" android:key="hostIpAddress" android:summary="host IP address of machine where GM:Studio is running" android:defaultValue="none" />
+        <EditTextPreference android:name="GM:Studio Port number" android:title="GM:Studio Port number" android:key="hostPortNumber" android:summary="port number of webserver on machine where GM:Studio is running" android:defaultValue="51268" />
+    </PreferenceCategory>
+</PreferenceScreen>

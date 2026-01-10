@@ -1,0 +1,218 @@
+Signature-Version: 1.0
+Created-By: GenOuka
+SHA1-Digest-Manifest: g7qGU3O8ho6d+KgajpoSle8D9ro=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: h9U4WrcuiVHBuVNjbG6zrr2LaD4=
+
+Name: assets/Port by Genouka.txt
+SHA1-Digest: hEaxbO1fdW7pdvthoyOp5vJWMVw=
+
+Name: assets/game.droid
+SHA1-Digest: TGUnDvq9rGwYEterFZB4jOYUw9M=
+
+Name: assets/genouka_gmloader.ext
+SHA1-Digest: pKRUXIINU8Su1YE5KF7E4oKUWjQ=
+
+Name: assets/genouka_patcher.ext
+SHA1-Digest: wKqMpsoPMHYpwexbmM3GunhUyAg=
+
+Name: assets/gex.tap.yyp
+SHA1-Digest: BTuVIzrQLaD07UOQ49wbSLtNGVY=
+
+Name: assets/options.ini
+SHA1-Digest: DAJd2E0u4wxO1SFYlkEXU/3n2xc=
+
+Name: assets/portrait_splash.png
+SHA1-Digest: D2pl1PGpM+/wdFQhXbOFKbcLhNY=
+
+Name: assets/splash.png
+SHA1-Digest: kM3TcFcZ/exR1seMKZJYAzqSeYA=
+
+Name: classes.dex
+SHA1-Digest: 4Jo4/1jj9cOaNofaA6c09JXz5kE=
+
+Name: classes2.dex
+SHA1-Digest: opEG0wrHgvgHS2GkyIzKEKMkCG8=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: 2FNXkU8f0AOpNXxnagzlW+boLj4=
+
+Name: lib/arm64-v8a/libyoyo.so
+SHA1-Digest: XBLW1TvjmEki8FKvBSoMx2tlSxg=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: b69G6sYjvX/uXGfR8zGf2PAm6Gg=
+
+Name: lib/armeabi-v7a/libyoyo.so
+SHA1-Digest: yoTIbxVzU19VzwEVwso2W6titnU=
+
+Name: res/drawable-hdpi/notification_bg_low_normal.9.png
+SHA1-Digest: 9e+GoCiKMLL+nuiJDhNaQ2617ik=
+
+Name: res/drawable-hdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: x1mGBRikEqghSxJeJufKfYT+wWo=
+
+Name: res/drawable-hdpi/notification_bg_normal.9.png
+SHA1-Digest: +O1e4ipcZ1Xjcoxd7VYu0jUGmbc=
+
+Name: res/drawable-hdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: 0ay6itdFsfv7R/7srPvufRFHGYk=
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: YTEKChltbai/HJwWaoSB8oXHx5w=
+
+Name: res/drawable-mdpi/notification_bg_low_normal.9.png
+SHA1-Digest: SSQCn1YyUn7+fgA2loPMzBeNjHk=
+
+Name: res/drawable-mdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: Xezlrz7EX3ScnS5DvdR2LiBFAWU=
+
+Name: res/drawable-mdpi/notification_bg_normal.9.png
+SHA1-Digest: NKta2J0AzPO3v2Ht8+lzZ+QL0mo=
+
+Name: res/drawable-mdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: DJgVxUVvKXtz+huXmV8LNT7MBRk=
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: rtkeaQ8NyR0xJbtc2dcPN0xD2LI=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: PRD12vE8vJMLIUg8qbqEU+VxwUI=
+
+Name: res/drawable-xhdpi/notification_bg_low_normal.9.png
+SHA1-Digest: Wq32UxSATpzcyZFwSmCbX5kE55w=
+
+Name: res/drawable-xhdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: HtVFxVZKQ3TxSrk7XLELWV6Mox4=
+
+Name: res/drawable-xhdpi/notification_bg_normal.9.png
+SHA1-Digest: fpjJNvbobD5cvWx5cchvSr4nHMs=
+
+Name: res/drawable-xhdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: FxHyiyiMoMaUs+J1wVzc3Dzv4vE=
+
+Name: res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: UqaBonaZPP2HIWWmsxLXpUPr1Q8=
+
+Name: res/drawable/banner.png
+SHA1-Digest: ifcao/4hGfa7AfhoK0XOaaXCFWI=
+
+Name: res/drawable/icon.png
+SHA1-Digest: PEtK6Q6IvqeiMuC8wCs1pskqPfs=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: 8JOcGRposrBbROuxYskYZhq/CmI=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: DY7rLqgWaKzZSwfMR0lZ806pHI0=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: gZKdvYK0BJKGnlgTAbg0QJnXPWo=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: 2h5e49ljKbc5WikJIZLzbETmIGk=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: LZGZyRa52BmM4xSBTfQXXUlGGTU=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: 8q9OMAnBd6aL57fqfi0TAkuRhUM=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: EQCL3bkxNqGy9MxN8Fo67NaQNQE=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: hM6l1+uE9dd7+oCw5qq8sPi6gvA=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: Mb7snHr4MAvYX5eh6xYQ+yebtnM=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: BkiuNDhBv/cI0YQSEZpkpEvCtM8=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: ct63uAhPfdt719kH0qHQsr2dOsA=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: fo4v5zEZbT3OXZ1AjM+b80zNBUc=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: dx71UJq9CT5+1fuqLsGK8mGPlXQ=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: XGiNQRSAT945lXv0JAhIvMrp7R8=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: Ymb4rMQ9+fAjaCtPOI5c392NbmI=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: Wv60ngKky7JYKU+knT6e1QOvhac=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: sVfLdlzEMq0cu1Lfwa0NQ4Q2aY4=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: wjWsNBUKwmhtm6GBSYZYZ4gGp5M=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: suz1NILxzblgKn1tIS6AkBC/VZY=
+
+Name: res/layout/download.xml
+SHA1-Digest: O8OgHTU8OupfJPPQNFiJ5yB06ls=
+
+Name: res/layout/main.xml
+SHA1-Digest: PpQy1Yk5anzaBOr84GMEcMV5T04=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: rdOS+sJKspnK159AmC1u86b0TW8=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: uYnX/f8XYmu+m6q1odiduAPWq2I=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: dcktxdYg2a59iqXpbvwbXg6sCAc=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: 21E+9pIkWoE57GbvMH5FyyKlKa0=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: 72U6TKyoi5EmpWooE7bUdQG/8v4=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: krD+WSNFzrUVFwcZyFbym7b0/I0=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: RaM8lP0Mh78jvAztUObJ/Il38bA=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: OMV+q4VjfVzOsecjexnYX/4tG54=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: J8khUPbyV27ag9mX5AHaEAga3TU=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: eg4w/+gERM5vqSJTZCvYeBRgmDk=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: MWvKHKsA0iL8zP1W7k9Wj6K6Ips=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: hATbLEakZfX0ofb/RQ/VDebab/E=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: RMuls9zUeWWty1BouK3DHrT3pys=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: EGWlO9aYKKCDLjCxxT5Kd9v6+Tk=
+
+Name: res/layout/userpasslayout.xml
+SHA1-Digest: VTqnbM2aDK8TMGvD1igmwNXIHF0=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: +oufbW/ylA1XZud4eKLPFFyT+ys=
+
+Name: resources.arsc
+SHA1-Digest: IXIgzklu7Kezn+kM5QZ9clpqRYE=
+

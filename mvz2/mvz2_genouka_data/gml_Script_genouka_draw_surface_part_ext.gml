@@ -1,0 +1,19 @@
+// This code is made by Genouka.
+// This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
+// If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+if(surface_exists(argument0))
+{
+    if(true || global.genouka_surface_set_target_has_been_executed)
+    {
+        draw_surface_part_ext(argument0,argument1,argument2,argument3,argument4,argument5,argument6,argument7,argument8,argument9,argument10);
+    }
+}
+else
+{
+    if(!variable_global_exists("genouka_resource_loading_content"))
+    {
+        global.genouka_resource_loading_content = "";
+    }
+    global.genouka_resource_loading_content += "[GenoukaSurface]"+ genouka_getstackstring(3) +" draw_surface_part_ext surface to draw does not exist:" + string(argument0) + "\r";
+}

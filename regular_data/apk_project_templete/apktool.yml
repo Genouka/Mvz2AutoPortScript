@@ -1,0 +1,16 @@
+version: 2.12.1
+apkFileName: mvz2_{{{REFNAME2}}}_.APK
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 9
+  targetSdkVersion: 28
+packageInfo:
+  forcedPackageId: 127
+versionInfo:
+  versionCode: 2000001
+  versionName: {{{REFNAME1}}} 秋冥移植
+doNotCompress:
+- arsc
+- png
