@@ -10,7 +10,7 @@ title 秋冥MVZ2一键移植工具
 :: 获取脚本所在目录
 set "SCRIPT_DIR=%~dp0"
 set "SCRIPT_DIR=%SCRIPT_DIR:~0,-1%"
-set "FFMPEG=%SCRIPT_DIR%bin\ffmpeg.exe"
+set "FFMPEG=%SCRIPT_DIR%\bin\ffmpeg.exe"
 cd /d "%~dp0"
 
 echo =============================================
